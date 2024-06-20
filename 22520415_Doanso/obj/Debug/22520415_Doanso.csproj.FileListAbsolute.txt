@@ -1,0 +1,12 @@
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\22520415_Doanso.csproj.AssemblyReference.cache
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\_22520415_Doanso.Client.resources
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\_22520415_Doanso.CreateGame.resources
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\_22520415_Doanso.Server.resources
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\_22520415_Doanso.Properties.Resources.resources
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\22520415_Doanso.csproj.GenerateResource.cache
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\22520415_Doanso.csproj.CoreCompileInputs.cache
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\bin\Debug\22520415_Doanso.exe.config
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\bin\Debug\22520415_Doanso.exe
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\bin\Debug\22520415_Doanso.pdb
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\22520415_Doanso.exe
+E:\HK4_UIT\LTMCB\Lab\Lab6\22520415_Doanso\22520415_Doanso\obj\Debug\22520415_Doanso.pdb

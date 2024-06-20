@@ -1,0 +1,30 @@
+he has joined the game.
+het has joined the game.
+Server: Ready to start the game? (Type 'ready' to proceed)
+he is ready.
+het is ready.
+
+New game started. Find a number between 140 and 188. Current round: 1 Total rounds: 5 Time: 26
+he guessed 166. Correct. he has score: 10
+het guessed 166. Correct. het has score: 10
+Round 1 has ended.
+
+New round started. Find a number between 825 and 857. Current round: 2 Total rounds: 5 Time: 25
+he guessed 843. Correct. he has score: 20
+het guessed 846. Too high. het has score: 9
+Round 2 has ended.
+
+New round started. Find a number between 504 and 549. Current round: 3 Total rounds: 5 Time: 25
+het guessed 505. Too low. het has score: 8
+he guessed 530. Too high. he has score: 19
+Round 3 has ended.
+
+New round started. Find a number between 638 and 686. Current round: 4 Total rounds: 5 Time: 23
+het guessed 645. Too high. het has score: 7
+he guessed 659. Too high. he has score: 18
+Round 4 has ended.
+
+New round started. Find a number between 137 and 178. Current round: 5 Total rounds: 5 Time: 18
+het guessed 141. Too low. het has score: 6
+he guessed 176. Too high. he has score: 17
+Game Over! Winner: he with 2 correct guesses and 5 total guesses.
